@@ -33,7 +33,7 @@ This project converts Smollm2 architecture into DeepSeek Architecture with the f
   - Total Tokens Processed: 40,960,000
   - GPU Memory Usage: 2443MB/3666MB
 
-## Training Progress
+### Training Progress
 
 The model showed significant improvement in loss throughout training:
 - Initial Loss (Step 100): 9.1351
